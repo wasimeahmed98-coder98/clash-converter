@@ -16,6 +16,6 @@
 
 3. 运行转换器:
 
-Bash
-
-python main.py
+ ```bash
+ Bash
+ python main.py
