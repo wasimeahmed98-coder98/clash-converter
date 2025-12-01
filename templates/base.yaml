@@ -14,6 +14,12 @@ proxy-groups:
     proxies:
       - DIRECT
   
+  - name: 🇺🇳所有-自动
+    type: url-test
+    include-all: true
+    tolerance: 50
+    interval: 360
+    
   - name: 🐟 漏网之鱼
     type: select
     proxies:
@@ -24,4 +30,5 @@ rules:
   - DOMAIN-SUFFIX,google.com,🚀 节点选择
   - DOMAIN-KEYWORD,github,🚀 节点选择
   - GEOIP,CN,DIRECT
+
   - MATCH,🐟 漏网之鱼
